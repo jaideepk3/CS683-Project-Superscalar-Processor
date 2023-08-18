@@ -9,5 +9,3 @@ The primary objective of this project was to enhance a 6-Staged Pipeline to an I
 * Implemented Registration Stations for hazard control and improved execution efficiency.
 * Utilized Branch Prediction techniques to enhance the accuracy of branch outcomes.
 * Simulated the microprocessor model designed on MAX V FPGA using Quartus and ModelSim.
-
-# CS683-Project-Superscalar-Processor
